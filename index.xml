@@ -2,21 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>KeepInTouch</title>
-    <link>https://chinnatan.github.io/keepintouch/</link>
+    <link>http://example.org/</link>
     <description>Recent content on KeepInTouch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Sep 2020 23:35:29 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2020 12:14:56 +0700</lastBuildDate>
     
-	<atom:link href="https://chinnatan.github.io/keepintouch/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Port Malaya Daily Quest 2 เควสรายวัน Exp&amp;Job 200k Class3</title>
+      <link>http://example.org/how-to-quest/port-malaya-daily-quest-2/</link>
+      <pubDate>Sat, 19 Sep 2020 12:14:56 +0700</pubDate>
+      
+      <guid>http://example.org/how-to-quest/port-malaya-daily-quest-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Port Malaya Daily Quest 1 เควสรายวัน Exp&amp;Job 200k Class3</title>
+      <link>http://example.org/how-to-quest/port-malaya-daily-quest-1/</link>
+      <pubDate>Sat, 19 Sep 2020 12:14:53 +0700</pubDate>
+      
+      <guid>http://example.org/how-to-quest/port-malaya-daily-quest-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nurse in Port Malaya - เควสเปิดดันโรงพยาบาลผีสิง</title>
+      <link>http://example.org/how-to-quest/nurse-in-port-malaya/</link>
+      <pubDate>Sat, 19 Sep 2020 12:06:42 +0700</pubDate>
+      
+      <guid>http://example.org/how-to-quest/nurse-in-port-malaya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cautious Village Quest</title>
-      <link>https://chinnatan.github.io/keepintouch/how-to-quest/cautious-village-quest/</link>
+      <link>http://example.org/how-to-quest/cautious-village-quest/</link>
       <pubDate>Fri, 18 Sep 2020 23:35:29 +0700</pubDate>
       
-      <guid>https://chinnatan.github.io/keepintouch/how-to-quest/cautious-village-quest/</guid>
+      <guid>http://example.org/how-to-quest/cautious-village-quest/</guid>
       <description>วิธีการทำเควส คลิก</description>
     </item>
     

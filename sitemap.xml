@@ -3,26 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://chinnatan.github.io/keepintouch/how-to-quest/cautious-village-quest/</loc>
+    <loc>http://example.org/how-to-quest/</loc>
+    <lastmod>2020-09-19T12:14:56+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2020-09-19T12:14:56+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/how-to-quest/port-malaya-daily-quest-2/</loc>
+    <lastmod>2020-09-19T12:14:56+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/how-to-quest/port-malaya-daily-quest-1/</loc>
+    <lastmod>2020-09-19T12:14:53+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/how-to-quest/nurse-in-port-malaya/</loc>
+    <lastmod>2020-09-19T12:06:42+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/how-to-quest/cautious-village-quest/</loc>
     <lastmod>2020-09-18T23:35:29+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chinnatan.github.io/keepintouch/how-to-quest/</loc>
-    <lastmod>2020-09-18T23:35:29+07:00</lastmod>
+    <loc>http://example.org/categories/</loc>
   </url>
   
   <url>
-    <loc>https://chinnatan.github.io/keepintouch/</loc>
-    <lastmod>2020-09-18T23:35:29+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chinnatan.github.io/keepintouch/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://chinnatan.github.io/keepintouch/tags/</loc>
+    <loc>http://example.org/tags/</loc>
   </url>
   
 </urlset>
